@@ -10,6 +10,7 @@ Computer Science student at TU Darmstadt with a growing focus on software engine
 - 🎯 Long-term goal: IT Consultant / Technology Consultant
 
 ## Tech Focus
+- Python
 - Java
 - Git & GitHub
 - Maven
@@ -19,15 +20,4 @@ Computer Science student at TU Darmstadt with a growing focus on software engine
 - Linux / Shell
 - Networking fundamentals
 
-## Current Projects
-### Java Message Exchange System
-Pure Java messaging system demonstrating:
-- In-process communication
-- Inter-process communication
-- TCP sockets
-- Clean architecture
-- Separation of concerns
-- Maven
-- Shell scripting
 
-More projects coming soon.
